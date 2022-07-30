@@ -1,0 +1,13 @@
+name = "Colytra (Forge)"
+filename = "colytra-forge-1.18.1-5.2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c517ce052966b02302177ee615ca999c03e6197c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3725170
+project-id = 280200

@@ -1,0 +1,13 @@
+name = "FTB Industrial Contraptions (Forge)"
+filename = "ftb-industrial-contraptions-1802.1.6-build.197.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4df80531781e5be1c7199e728604902898573c3d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3879366
+project-id = 539097
