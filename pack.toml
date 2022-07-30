@@ -1,0 +1,13 @@
+name = "atm7"
+author = "Unknown"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9aba04c78e322a85578f677147b467b1fd00b45035bfaf7cb52ebe35a8d53c5e"
+
+[versions]
+forge = "40.1.60"
+minecraft = "1.18.2"

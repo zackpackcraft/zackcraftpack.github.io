@@ -1,0 +1,13 @@
+name = "Additional Bars [FORGE]"
+filename = "additionalbars-3.0.1-beta+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef30b85b557e53b91d82c11b94dd20d8a03c3efe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3768422
+project-id = 357362
